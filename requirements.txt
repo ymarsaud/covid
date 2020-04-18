@@ -1,7 +1,7 @@
 pandas
 matplotlib
 voila
-ipwidgets
+ipywidgets
 plotly
 psutils
 requests
