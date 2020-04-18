@@ -1,6 +1,6 @@
 # One more data analysis about coronavirus, but normalized...
 
-## Comments
+## Introduction
 I coded this in order to follow figures about covid, for curiosity, without any goal else.
 
 It would be very useful and interesting to know :

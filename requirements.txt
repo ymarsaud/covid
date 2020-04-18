@@ -1,3 +1,7 @@
 pandas
 matplotlib
 voila
+ipwidgets
+plotly
+psutils
+requests
