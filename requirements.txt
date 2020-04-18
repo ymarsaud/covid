@@ -3,5 +3,5 @@ matplotlib
 voila
 ipywidgets
 plotly
-psutils
+psutil
 requests
