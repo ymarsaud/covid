@@ -15,7 +15,7 @@ Yann Marsaud
 
 ## Run it !
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/ymarsaud-covid-0xjrcts0/voila/render/covid_analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymarsaud/covid/master?urlpath=%2Fvoila%2Frender%2Fcovid_analysis.ipynb)
 
 ## References
 
