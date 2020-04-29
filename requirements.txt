@@ -5,3 +5,4 @@ ipywidgets
 plotly
 psutil
 requests
+slugify
